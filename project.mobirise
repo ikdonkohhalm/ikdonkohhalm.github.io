@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Isaac Donkoh-Halm",
-    "currentPage": "index.html",
+    "currentPage": "projects.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1474,7 +1474,7 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#efefef"
             },
             "H2": {
               "color": "#ffffff"
