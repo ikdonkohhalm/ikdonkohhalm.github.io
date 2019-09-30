@@ -2260,7 +2260,7 @@ body {
 }
 .cid-rDe8iAsOHb {
   padding-top: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 0px;
   background: linear-gradient(45deg, #ffeaee, #ffeaee);
 }
 @media (min-width: 992px) {
@@ -2278,6 +2278,39 @@ body {
 }
 .cid-rDe8iAsOHb .mbr-text,
 .cid-rDe8iAsOHb .mbr-section-btn {
+  color: #232323;
+  text-align: right;
+}
+.cid-rDwg96D5YU {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #ffeaee, #ffeaee);
+}
+@media (min-width: 992px) {
+  .cid-rDwg96D5YU .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rDwg96D5YU .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-rDwg96D5YU .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rDwg96D5YU .media-container-row .mbr-figure {
+    padding-left: 0;
+    padding-right: 4rem;
+  }
+}
+.cid-rDwg96D5YU .mbr-section-title {
+  color: #232323;
+}
+.cid-rDwg96D5YU .mbr-text,
+.cid-rDwg96D5YU .mbr-section-btn {
   color: #232323;
   text-align: right;
 }
@@ -2674,42 +2707,6 @@ body {
 .cid-rCFom07G4O .nav-link:hover,
 .cid-rCFom07G4O .dropdown-item:hover {
   color: #0f7699 !important;
-}
-.cid-rDwdnArU7I {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: linear-gradient(45deg, #ffeaee, #ffeaee);
-}
-@media (min-width: 992px) {
-  .cid-rDwdnArU7I .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rDwdnArU7I .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-rDwdnArU7I .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-rDwdnArU7I .media-container-row .mbr-figure {
-    padding-left: 0;
-    padding-right: 4rem;
-  }
-}
-.cid-rDwdnArU7I .mbr-section-title {
-  color: #232323;
-}
-.cid-rDwdnArU7I .mbr-text,
-.cid-rDwdnArU7I .mbr-section-btn {
-  color: #232323;
-}
-.cid-rDwdnArU7I .mbr-text,
-.cid-rDwdnArU7I .mbr-section-btn P {
-  color: #232323;
 }
 .cid-rCEZhGXtiK {
   padding-top: 45px;
