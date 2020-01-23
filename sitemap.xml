@@ -3,15 +3,21 @@
 		<loc>http://kobid.me/index.html</loc>
 	</url>
 	<url>
-		<loc>http://kobid.me/Games.html</loc>
+		<loc>http://kobid.me/projects.html</loc>
 	</url>
 	<url>
-		<loc>http://kobid.me/AboutMe.html</loc>
+		<loc>http://kobid.me/bio.html</loc>
 	</url>
 	<url>
-		<loc>http://kobid.me/Contact.html</loc>
+		<loc>http://kobid.me/holla.html</loc>
 	</url>
 	<url>
-		<loc>http://kobid.me/MailingList.html</loc>
+		<loc>http://kobid.me/events.html</loc>
+	</url>
+	<url>
+		<loc>http://kobid.me/editor.html</loc>
+	</url>
+	<url>
+		<loc>http://kobid.me/dev.html</loc>
 	</url>
 </urlset>
