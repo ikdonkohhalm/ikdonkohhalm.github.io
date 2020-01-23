@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Isaac Donkoh-Halm",
-    "currentPage": "bio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -80,7 +80,7 @@
       "settings": {
         "main": true,
         "title": "Isaac Donkoh-Halm",
-        "meta_descr": "Landing page of all things Isaac Donkoh-Halm",
+        "meta_descr": "Hi I'm Isaac, and I'm an event coordinator and community manager. Learn more about my projects here!.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
