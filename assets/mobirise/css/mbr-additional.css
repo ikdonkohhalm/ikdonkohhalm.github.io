@@ -1751,6 +1751,202 @@ section.lazy-placeholder:after {
   color: #232323;
   text-align: right;
 }
+.cid-rZEozO5ybr {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #e299a5;
+}
+.cid-rZEozO5ybr .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rZEozO5ybr H2 {
+  color: #ffffff;
+}
+.cid-rZEoO2ragx P {
+  color: #767676;
+}
+.cid-rZEoO2ragx .mbr-text,
+.cid-rZEoO2ragx .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-rZEoO2ragx H1 {
+  color: #ffffff;
+}
+.cid-rZEoPsuwZ9 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffeaee;
+}
+.cid-rZEoPsuwZ9 .main,
+.cid-rZEoPsuwZ9 .main-reverse {
+  margin: 0;
+  background: #ffeaee;
+}
+.cid-rZEoPsuwZ9 .text-element {
+  background: #ffeaee;
+  padding: 3rem 2rem;
+  min-height: 314px;
+}
+.cid-rZEoPsuwZ9 .img-wrap {
+  width: 100% !important;
+  height: 100% !important;
+}
+.cid-rZEoPsuwZ9 .main-reverse {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+.cid-rZEoPsuwZ9 .card {
+  padding: 0;
+  border: 1px solid rgba(120, 130, 140, 0.13);
+  display: flex;
+}
+.cid-rZEoPsuwZ9 .image-element img {
+  width: 100%;
+  height: 100%;
+  min-height: 314px;
+  object-fit: cover;
+}
+.cid-rZEoPsuwZ9 .mbr-iconfont {
+  font-size: 3rem;
+  color: #c4bc3b;
+}
+@media (max-width: 991px) {
+  .cid-rZEoPsuwZ9 .main-reverse {
+    flex-direction: row;
+    -webkit-flex-direction: row;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rZEoPsuwZ9 .container {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  .cid-rZEoPsuwZ9 .image-element,
+  .cid-rZEoPsuwZ9 .text-element {
+    margin-bottom: 0;
+  }
+  .cid-rZEoPsuwZ9 .main:first-child {
+    padding-top: 0;
+  }
+}
+.cid-rZEoPsuwZ9 .mbr-section-subtitle,
+.cid-rZEoPsuwZ9 .card-text,
+.cid-rZEoPsuwZ9 .mbr-section-btn {
+  color: #8d97ad;
+}
+.cid-rZEoPsuwZ9 .card-text,
+.cid-rZEoPsuwZ9 .mbr-section-btn {
+  color: #232323;
+}
+.cid-rZEoQaXNk0 {
+  padding-top: 45px;
+  padding-bottom: 90px;
+  background-color: #ffeaee;
+}
+.cid-rZEoQaXNk0 .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-rZEoQaXNk0 .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-rZEoQaXNk0 .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rZEoQaXNk0 .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rZEoQaXNk0 .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #e299a5;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-rZEoQaXNk0 .icon-focus {
+  display: none;
+}
+.cid-rZEoQaXNk0 .mbr-gallery-title {
+  transition: all 0.5s ease;
+  position: absolute;
+  text-align: left;
+  display: none;
+  width: 100%;
+  top: 0;
+  right: 0;
+  padding: 1rem;
+  color: #000000;
+  font-weight: bold;
+  background: transparent;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+}
+.cid-rZEoQaXNk0 ul {
+  font-size: 0;
+}
+.cid-rZEoQaXNk0 .mbr-gallery-filter ul li .btn {
+  border: none;
+  background-color: transparent;
+  color: #232323 !important;
+  padding: 0.5rem 1rem 0.6rem;
+  border-radius: 0;
+  margin: 0!important;
+  transition: padding, border 0s, transform .2s;
+}
+.cid-rZEoQaXNk0 .mbr-gallery-filter ul li .btn.active,
+.cid-rZEoQaXNk0 .mbr-gallery-filter ul li.active .btn:not(.active) {
+  padding: 0.5rem 1rem 0.5rem;
+  border-radius: 0 !important;
+  position: relative;
+}
+.cid-rZEoQaXNk0 .mbr-gallery-filter ul li .btn.active:after,
+.cid-rZEoQaXNk0 .mbr-gallery-filter ul li.active .btn:not(.active):after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(90deg, #e299a5, #7f1933);
+}
+.cid-rZEoQaXNk0 .mbr-gallery-filter ul li {
+  padding: 0;
+}
+.cid-rZEoQaXNk0 .mbr-gallery-item > div:hover .mbr-gallery-title {
+  padding-bottom: 1.5rem;
+  display: block;
+}
+.cid-rZEoQaXNk0 .mbr-gallery-item > div:hover:before {
+  opacity: 0.8 !important;
+}
+.cid-rZEoQaXNk0 .btn {
+  background: none;
+  border-radius: 0 !important;
+}
+.cid-rZEoQaXNk0 .btn:hover {
+  background: transparent !important;
+}
+.cid-rZEoQaXNk0 .btn:hover:before {
+  background: transparent !important;
+}
+.cid-rZEoQaXNk0 .btn:before {
+  background-color: transparent !important;
+}
+.cid-rZEoQaXNk0 .btn:focus {
+  box-shadow: none;
+}
+.cid-rZEoQaXNk0 .mbr-section-title {
+  position: relative;
+  z-index: 1;
+}
 .cid-rCEZhGXtiK {
   padding-top: 45px;
   padding-bottom: 0px;
