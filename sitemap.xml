@@ -9,9 +9,6 @@
 		<loc>http://kobid.me/bio.html</loc>
 	</url>
 	<url>
-		<loc>http://kobid.me/holla.html</loc>
-	</url>
-	<url>
 		<loc>http://kobid.me/events.html</loc>
 	</url>
 	<url>
@@ -37,5 +34,8 @@
 	</url>
 	<url>
 		<loc>http://kobid.me/producer.html</loc>
+	</url>
+	<url>
+		<loc>http://kobid.me/hmu.html</loc>
 	</url>
 </urlset>
